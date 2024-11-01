@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cabalistico</string>
+    <string name="abecedario">abcdefghijklmnopqrstuvwxyz</string>
+    <string name="numeros">1234567891011121314151617181920212223242526</string>
+
+</resources>
